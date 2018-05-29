@@ -1,0 +1,27 @@
+Deadline Second Lab Assignment 3 Jun 2018, 23:59
+
+Learning objectives/outcomes this week
+
+After completion, you will be able to:
+
+    Learn sequential models from time series
+    Measure their predictive accuracy
+    Discretize time series data
+
+Learning Activities (to do's) this week
+
+    Peer review assigned papers for lab 1
+    Read ARMA online tutorial
+    Read BATADAL paper by Taormina et al.
+    Explore the BATADAL SCADA data set by visualizing the data, learning different predictive models, modifying their parameters, evaluating their performance
+    Discretize the sensor data using methods from class (Percentile, SAX, change point detection, ...), and visualize the outcome
+    This is a part of the second lab assignment, there is no deliverable this week
+
+Required reading material (other papers are optional)
+
+    Markov chain fingerprinting to classify encrypted traffic
+    Scaling up dynamic time warping for datamining applications
+    An ARMA tutorial https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/
+    Wikipedia on N-grams https://en.wikipedia.org/wiki/N-gram
+
+A good intro to modelling using ARMA is https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/ or https://bicorner.com/2015/11/16/time-series-analysis-using-ipython/or there exist many other good tutorials online.
